@@ -1,0 +1,6 @@
+
+1. Ít nhất 1 mối quan hệ nhiều nhiều
+2. Đảm bảo tất cả ô input, nếu phát sinh thì thông báo cho người dùng
+3. email, số điện thoại là duy nhất
+4. update, create giống nhau, các trường hợp ở create giống vs update
+5. Có phân trang, tìm kiếm ít nhất 2 trường theo tên hoặc theo email...
